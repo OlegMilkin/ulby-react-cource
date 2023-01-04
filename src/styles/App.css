@@ -22,7 +22,10 @@
     align-items: center;
     justify-content: space-between;
 }
-
+.post_btns {
+    display: flex;
+    gap: 5px;
+}
 .post-enter {
     opacity: 0;
 }
